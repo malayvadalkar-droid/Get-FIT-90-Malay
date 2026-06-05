@@ -1,0 +1,22 @@
+{
+  "name": "FIT90 — 90-Day Transformation",
+  "short_name": "FIT90",
+  "description": "Your 90-day personal fitness and nutrition tracker",
+  "start_url": "/today",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
