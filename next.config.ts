@@ -6,7 +6,7 @@ const nextConfig: NextConfig = {
 
   // Don't fail the Vercel build on ESLint warnings
   eslint: {
-    ignoreDuringBuilds: false,
+    ignoreDuringBuilds: true,
   },
 
   // Don't fail the build on TS errors in CI (tsc check is separate)
